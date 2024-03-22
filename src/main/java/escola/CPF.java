@@ -12,9 +12,9 @@ public class CPF {
 		this.cpf = cpf;
 	}
 
-	public String getCpf() {
-		return cpf;
-	}
+		public String getCpf() {
+			return cpf;
+		}
 
 	
 
