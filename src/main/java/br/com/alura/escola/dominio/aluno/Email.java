@@ -1,4 +1,4 @@
-package escola;
+package br.com.alura.escola.dominio.aluno;
 
 public class Email {
 		//Value object --> não é uma entidade, apenas parâmetros de um objeto.
